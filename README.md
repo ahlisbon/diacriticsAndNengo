@@ -14,6 +14,9 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
 - for PCs only.
 ## Installing
 1. download the "marconsAndNengo" file from the gitHub project home page.
+2. double click the "macronAndNengo" file after you've downloaded the file.
+   - You will see a green square with a white "H" in the Windows taskbar on the lower-right.
+     - If not, click the up arrow to see if it's in the expanded list of background programs running on your PC.
 
 <h1>Features / How to Use </h1>
 <h2>Caps Lock key used to swap Input Method Editor (IME)</h2>
