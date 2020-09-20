@@ -29,7 +29,7 @@ These scripts are activated by tapping a "hot key" (or key combination) on your 
 ## Typing Vowels with Diacritics
 Trying to type long-vowels in Japanese or certain vowels in Korean requires diacritics. Use these hot key combinations to quickly type the following:
 
-### Long-Vowels in romanized Japanese
+### Long-Vowels in Romanized Japanese
 - right alt+a = ā
 - right alt+i = ī
 - right alt+u = ū
@@ -42,14 +42,14 @@ Trying to type long-vowels in Japanese or certain vowels in Korean requires diac
 - right alt+right shift+e = Ē
 - right alt+right shift+o = Ō
 
-### Korean vowels 
+### Korean Vowels with Diacritics
 - right ctrl+o = ŏ
 - right ctrl+u = ŭ
 
 - right ctrl+right shift+o = Ŏ
 - right ctrl+right shift+u = Ŭ
 
-## Typing Currency Symbols
+## Currency Symbols
 - right alt+y = ¥
 - right ctrl+w = ₩
 
