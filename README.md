@@ -7,11 +7,13 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
 - Quckly type a breve (ŏ) for romanizing Korean in [McCune–Reischauer](https://en.wikipedia.org/wiki/McCune%E2%80%93Reischauer) romanization.
   - Including the ₩ symbol.
 - Simplifies switching the Input Method Editor (IME) between English and typing in Japanese to only using the Caps Lock key.
-- Quick Western⇔Nengō conversion from 1868 onward.
+- Quick Western ⇄ Nengō conversion from 1868 onward.
 
 # Getting Started
+
 ## Prerequisites
 - for PCs only.
+
 ## Installing
 1. Download the "marconsAndNengo.ahk" file from the GitHub project home page.
 2. Double click the "macronAndNengo.ahk" file after you've downloaded the file.
@@ -20,3 +22,14 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
 4. Also be sure to read:
    - the detailed instructions on swapping the IME with the Caps Lock key
    - how to do year conversions.
+
+# How to Use
+Text
+
+## Typing vowels with diacritics
+
+## Typing Currency Symbols
+
+## Using the Caps Lock key to swith the IME
+
+## Converting Western Years ⇄ Nengō
