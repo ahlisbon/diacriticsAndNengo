@@ -24,9 +24,13 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
    - how to do year conversions.
 
 # How to Use
-Text
+These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the right alt+y, your computer will type ¥.
 
 ## Typing vowels with diacritics
+Trying to type long vowels in Japanese or certain vowels in Korean requires diacritics. Use these hot key combinations to quickly type the following:
+right alt+a = ā  right alt+right shift+a = Ā
+
+
 
 ## Typing Currency Symbols
 
