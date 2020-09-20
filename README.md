@@ -32,12 +32,12 @@ Text
 
 ## Using the Caps Lock key to swith the IME
 
-### Deatiled Explanation
+### Detailed Explanation
 
 ## Converting Western Years ⇄ Nengō
 
 ### Detailed Explanation
 
-## Known Issues
+# Known Issues
 
-## Future Changes/Features
+# Future Changes/Features
