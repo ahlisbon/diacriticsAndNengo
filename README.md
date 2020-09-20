@@ -2,14 +2,14 @@
 A set of simple macros to quickly type romanized Japanese vowels with macrons (ex: ō) and Korean vowels with breves (ex: ŭ). It also allows for quick "on the fly" conversion of Western years to Japanese imperial era years (nengō/年号) and vice versa. These macros were created in AutoHotKey (AHK) and are contatined in a self executing file that launches a tiny stand alone program in the background. The scripts are run by pressing specific key combinations, for example: the right "alt" key and the "o" key to type "ō"
 
 ## Features include:
-- Quickly type macrons over all vowels in <a href="https://en.wikipedia.org/wiki/Hepburn_romanization">Modified Hepburn</a> romanization.
+- Quickly type vowels with macrons in <a href="https://en.wikipedia.org/wiki/Hepburn_romanization">Modified Hepburn</a> romanization.
  - Including the ¥ symbol
 - Quckly type a breve (ŏ) for romanizing Korean in <a href="https://en.wikipedia.org/wiki/McCune%E2%80%93Reischauer">McCune-Reischauer</a> romanization.
   - Including the ₩ symbol
  - Simplifies switching the Input Method Editor (IME) between English and typing in Japanese to only using the Caps Lock key.
  - Quick year converstion from 1868 onward.
 
-#Getting Started
+# Getting Started
 ## Prerequisites
 - for PCs only.
 ## Installing
