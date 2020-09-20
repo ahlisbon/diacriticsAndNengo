@@ -5,9 +5,9 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
 - Quickly type vowels with macrons in <a href="https://en.wikipedia.org/wiki/Hepburn_romanization">Modified Hepburn</a> romanization.
  - Including the ¥ symbol
 - Quckly type a breve (ŏ) for romanizing Korean in <a href="https://en.wikipedia.org/wiki/McCune%E2%80%93Reischauer">McCune-Reischauer</a> romanization.
-  - Including the ₩ symbol
- - Simplifies switching the Input Method Editor (IME) between English and typing in Japanese to only using the Caps Lock key.
- - Quick year converstion from 1868 onward.
+ - Including the ₩ symbol
+- Simplifies switching the Input Method Editor (IME) between English and typing in Japanese to only using the Caps Lock key.
+- Quick year converstion from 1868 onward.
 
 # Getting Started
 ## Prerequisites
