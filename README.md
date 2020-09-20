@@ -26,13 +26,32 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
 # How to Use
 These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the right alt+y, your computer will type ¥.
 
-## Typing vowels with diacritics
-Trying to type long vowels in Japanese or certain vowels in Korean requires diacritics. Use these hot key combinations to quickly type the following:
-right alt+a = ā  right alt+right shift+a = Ā
+## Typing Vowels with Diacritics
+Trying to type long-vowels in Japanese or certain vowels in Korean requires diacritics. Use these hot key combinations to quickly type the following:
 
+###Long-Vowels in romanized Japanese
+right alt+a = ā
+right alt+i = ī
+right alt+u = ū
+right alt+e = ē
+right alt+o = ō
 
+right alt+right shift+a = Ā
+right alt+right shift+i = Ī
+right alt+right shift+u = Ū
+right alt+right shift+e = Ē
+right alt+right shift+o = Ō
+
+### Korean vowels 
+right ctrl+o = ŏ
+right ctrl+u = ŭ
+
+right ctrl+right shift+o = Ŏ
+right ctrl+right shift+u = Ŭ
 
 ## Typing Currency Symbols
+right alt+y = ¥
+right ctrl+w = ₩
 
 ## Using the Caps Lock key to swith the IME
 
