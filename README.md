@@ -54,8 +54,17 @@ Trying to type long-vowels in Japanese or certain vowels in Korean requires diac
 
 ## Converting Western Years ⇄ Nengō
 
+### How to Use
+The hotkey combination for converting years is ctrl+shift+y
+
+The idea behind this macro is that you convery years as you are typing. The macro accounts for three scenarios:
+- typing in word processors
+- typing in text fields
+- typing in spreadsheets
+
+
 ### Western Years to Nengō
-Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro will highlight the text and paste the nengō over it. For example 1936 will be pasted over as: "Shōwa 11"
+Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro will highlight the text and paste the nengō over it. For example 1936 will be pasted over as: "Shōwa 11". This should work in most any word processing program/web app. With spreadsheets
 
 #### Things to know:
 - Trying to convert a year before 1868 will produce an error.
