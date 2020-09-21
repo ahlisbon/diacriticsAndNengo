@@ -57,10 +57,18 @@ Trying to type long-vowels in Japanese or certain vowels in Korean requires diac
 ### How to Use
 The hotkey combination for converting years is ctrl+shift+y
 
-The idea behind this macro is that you convery years as you are typing. The macro accounts for three scenarios:
+This macro lets you convert years as you are typing. The macro accounts for three scenarios:
 - typing in word processors
 - typing in text fields
 - typing in spreadsheets
+
+####Typing in Spreadsheets
+Spreadsheets are the most complex software environement for the macro to handle. As a result, indivdiual spreadhsheet programs and web apps have to be accounted for. The macro will work in:
+- Excel
+- Excel's web app in Office365 
+- Google Sheets
+
+IF you use other spreadsheet software, the macro may not work correctly. PLease feel free to email me if you use something not listed above and would like me to try and make the macro compatible with it.
 
 
 ### Western Years to Nengō
