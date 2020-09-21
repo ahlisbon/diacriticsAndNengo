@@ -87,6 +87,7 @@ Currently, the year conversion macro has been tested in Excel, Office 365 Excel,
 - Impliment a GUI.
 - Option to paste years in [] to assist library catalogers.
 - Option to paste  years in Japanese, i.e., "昭和30" instead of "Shōwa 30"
+- Ability to detect and copy phrases like "taisho 4" "taishō 4" "大正4" and "大正四
 - The ability to cyle between o, ō, and ŏ; u, ū, and ŭ; instead of using seperate hot keys.
 - Eliminate specific hot keys for each letter. Instead, type any one letter that can potentially have a diacritic and have one hotkey that looks at the last character typed and adds the appropriate diacritic. 
   - Would pair extremely well with the above idea for cycling letters with one diacritic.
