@@ -129,4 +129,4 @@ University Libraries
 University of Colorado Boulder
 
 ## License:
-See LICENSE.md
+See [LICENSE.md](https://github.com/ahlisbon/diacriticsAndNengo/blob/master/LICENSE.md)
