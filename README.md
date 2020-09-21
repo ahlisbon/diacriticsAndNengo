@@ -53,7 +53,8 @@ Trying to type long-vowels in Japanese or certain vowels in Korean requires diac
 - right alt+y = ¥
 - right ctrl+w = ₩
 
-## Using the Caps Lock key to swith the IME
+## Using the Caps Lock key to switch the IME
+On Windows, swtiching the IME for Japanese is done with alt+shift to switch between Japanese and English input. When the Japanese IME is selected, you can still choose between typing in English like normal, or typing in Japanese, done by typing alt and the tilde (`) key.
 
 ### Detailed Explanation
 
