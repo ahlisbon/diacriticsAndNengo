@@ -22,7 +22,7 @@ To type in Japanese with a typical English keyboard, using an IME for Japanese* 
   - or *windows+space* to cycle between the IME(s) and the default keyboard
 - *alt+tilde* to switch back and forth between using your IME to type in English or type in Japanese, or
 
-Instead, you can initally swtich your Japaense IME to type in Japaense and use the *Caps Lock* to swap back and forth. To use the *caps lock* as intended, use *ctrl+caps lock* instead.
+Instead, you can initally swtich your Japaense IME to type in Japaense and use the *caps lock* key to swap back and forth. To use the *caps lock* as intended, use *ctrl+caps lock* instead.
 
 # Typing Vowels with Diacritics
 
