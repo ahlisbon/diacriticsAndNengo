@@ -245,7 +245,7 @@ exit
 		clipboard:= clipboard - 2018
 		clipboard:= "Reiwa " . clipboard
 		}
-	 pasteYear:
+	pasteYear:
 	send ^v
 	if spreadsheet= Excel
 		send {enter}
