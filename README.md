@@ -1,5 +1,5 @@
 # Macrons & Nengō
-A set of simple macros to quickly type romanized Japanese vowels with macrons (ex: ō) and Korean vowels with breves (ex: ŭ). It also allows for quick "on the fly" conversion of Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa. These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are contatined in a self executing file that launches a tiny stand alone program in the background.
+A set of simple macros to quickly type romanized Japanese vowels with macrons (ex: ō) and Korean vowels with breves (ex: ŭ). It also allows for quick "on the fly" conversion of Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa from 1868/Meiji 1 onward. These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are contatined in a self executing file that launches a tiny stand alone program in the background.
 
 ## Features include:
 - Quickly type vowels with macrons（ex: ō) in [Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization) romanization.
@@ -55,10 +55,14 @@ Trying to type long-vowels in Japanese or certain vowels in Korean requires diac
 ## Converting Western Years ⇄ Nengō
 
 ### Western Years to Nengō
-Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro will highlight the text and paste the nengō over it.
+Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro will highlight the text and paste the nengō over it. For example 1936 will be pasted over as: "Shōwa 11"
 
-The macro will not run when:
-- A year before 1868 is typed.
+Things to know:
+- Trying to convert a year before 1868 will produce an error.
+- The macro will NOT convert Western years that fall on a year when the imperial era changes.
+  - e.g.: 1868, 1912, 1926, 1989, 2019.
+  - This is because the the last and first year of two imperial eras can happen in the same Western year.
+  - An alert message will appear explaining the exact dates one era ends and the other begins.
 
 ### Nengō to Western Years
 
