@@ -93,9 +93,7 @@ Type the first letter of the name of an imperial era, then the two digit year **
 - For any year past the current Reiwa nengō, i.e, r53, the year will still be converted into a Western year.
 
 # Known Issues
-
-## Issues in Spreadsheet software/web apps.
-Currently, the year conversion macro has been tested in Excel, Office 365 Excel, and Google Sheets.
+- On rare occaisions, the macro will leave either the "ctrl" "shift" or "alt" pressed down. I.e., presseing the "p" key will be interpreted by your computer as "ctrl+p" and launch the print dialogue window. To fix this, seperately press "ctrl" "shift" and "alt". This will stop the behavior. It is unclear why this happens sometimes and is continuing to be explored.
 
 # Future Changes/Features/Ideas (in no particular order)
 - Improve compatibility with spreadsheet software/web apps.
