@@ -60,7 +60,7 @@ Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro wi
 Things to know:
 - Trying to convert a year before 1868 will produce an error.
 - The macro will NOT convert Western years that fall on a year when the imperial era changes.
-  - e.g.: 1868, 1912, 1926, 1989, 2019.
+  - e.g.: 1868, 1912, 1926, 1989, 2019
   - This is because the the last and first year of two imperial eras can happen in the same Western year.
   - An alert message will appear explaining the exact dates one era ends and the other begins.
 
