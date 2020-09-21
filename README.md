@@ -1,7 +1,12 @@
 # Macrons & Nengō
-A set of simple macros to quickly type romanized Japanese vowels with macrons (ex: ō) and Korean vowels with breves (ex: ŭ). It also allows for quick "on the fly" conversion of Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa from 1868/Meiji 1 onward. These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are contatined in a self executing file that launches a tiny stand alone program in the background.
+A set of simple macros to:
+- quickly type romanized Japanese vowels with macrons (ex: ō) and Korean vowels with breves (ex: ŭ).
+- quickly switch between the default keyboard and an [Input Method Editor (IME)](https://en.wikipedia.org/wiki/Input_method)
+- convert Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa from 1868/Meiji 1 onward. These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are contatined in a self executing file that launches a tiny stand alone program in the background.
 
 ## Features include:
+- Quckly swapping between your default keyboard input and an Input Method Editor (IME)
+  -used the caps lock key instead of the cumbersome alt+shift to switch.
 - Quickly type vowels with macrons（ex: ō) in [Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization) romanization.
   - Including the ¥ symbol.
 - Quckly type a breve (ex: ŏ) for romanizing Korean in [McCune–Reischauer](https://en.wikipedia.org/wiki/McCune%E2%80%93Reischauer) romanization.
@@ -19,6 +24,11 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
    - You will see a green square with a white "H" in the Windows taskbar on the lower-right. If not, click the up arrow to see if it's in the expanded grid of background programs running on your PC. You should see it there.
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the right alt+y, your computer will type ¥.
 4. Read the README.
+
+# Switching between your default keyboard and the IME
+To type in Japanese with a typical English keyboard, using an IME for Japanese is required. The Windows default shortcuts are cumbersome and awkward:
+- *alt+shift* to swtich back and forth between your default keyboard and an IME, then
+- *alt+tilde* to switch back and forth between
 
 # Typing Vowels with Diacritics
 
