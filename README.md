@@ -5,6 +5,7 @@ A set of simple macros to:
 - convert Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa from 1868/Meiji 1 onward. These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are contatined in a self executing file that launches a tiny stand alone program in the background.
 
 # Getting Started
+When referring to any keys to press, they will be in italics: *shift*
 
 ## Prerequisites
 - for PCs only.
@@ -17,13 +18,9 @@ A set of simple macros to:
 4. Read the README.
 
 # Switching between your default keyboard and the IME
-To type in Japanese with a typical English keyboard, using an IME for Japanese* is required. The Windows default shortcuts are cumbersome and awkward:
-- *alt+shift* to swtich back and forth between your default keyboard and an IME
-- or *windows+space* to cycle between the IME(s) and the default keyboard
-Then
-- *alt+tilde* to switch back and forth between using your IME to type in English or type in Japanese, or
+*caps lock* replaces the *alt+shift* to switch between the most recently used IME and the default keyboard. To toggle typing in all capital letters, use *ctrl+caps lock* instead.
 
-Instead, you can initally swtich your Japaense IME to type in Japaense and use the *caps lock* key to swap back and forth. To use the *caps lock* as intended, use *ctrl+caps lock* instead.
+Set the Japanese IME to "hiragana" with *alt+tilde*
 
 # Typing Vowels with Diacritics
 
