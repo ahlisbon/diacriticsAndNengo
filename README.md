@@ -49,7 +49,7 @@ type long-vowels in Japanese or certain vowels in Korean requires diacritics. Us
 - right ctrl+w = ₩
 
 # Converting Western Years ⇄ Nengō
-The hotkey combination for converting years is ctrl+shift+y
+ctrl+shift+y is the hotkey combination for converting years.
 
 This macro lets you convert years as you are typing. The macro accounts for three scenarios:
 - typing in word processors
