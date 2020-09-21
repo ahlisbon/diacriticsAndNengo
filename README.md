@@ -21,7 +21,8 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
 4. Read the README.
 
 # Typing Vowels with Diacritics
-Trying to type long-vowels in Japanese or certain vowels in Korean requires diacritics. Use these hot key combinations to quickly type the following:
+
+type long-vowels in Japanese or certain vowels in Korean requires diacritics. Use these hot key combinations to quickly type the following:
 
 ## Long-Vowels in Romanized Japanese
 - right alt+a = ā
@@ -55,19 +56,23 @@ This macro lets you convert years as you are typing. The macro accounts for thre
 - typing in text fields
 - typing in spreadsheets
 
-## Typing in Spreadsheets
+## Converting Years in Word Processors or Text Fields
+Type out any 4 digit western year or nengō with the appropriate era prefix, then enter the hotkey combination (ctrl+shift+y).
+
+## Converting Years in Spreadsheets
 Spreadsheets are the most complex software environement for the macro to handle. The macro is compatible with:
 - Excel
 - Excel's web app in Office365 
 - Google Sheets
 
-IF you use other spreadsheet software, the macro may not work correctly. PLease feel free to email me if you use something not listed above and would like me to try and make the macro compatible with it.
+If you use other spreadsheet software, the macro may not work correctly. Please email me if you use something not listed above and would like me to try and make the macro compatible with it.
 
+★ When converting a year in a spreadsheet cell, you cannot be editing the cell. The macro can only convert cells with a date already entered in them.
 
 ### Western Years to Nengō
-Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro will highlight the text and paste the nengō over it. For example 1936 will be pasted over as: "Shōwa 11". This should work in most any word processing program/web app. With spreadsheets
+Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro will highlight the text and paste the nengō over it. For example 1936 will be pasted over as: "Shōwa 11".
 
-#### Things to know:
+#### Things to Know about converting to nengō:
 - Trying to convert a year before 1868 will produce an error.
 - The macro will NOT convert Western years that fall on a year when the imperial era changes.
   - e.g.: 1868, 1912, 1926, 1989, 2019
@@ -83,8 +88,8 @@ Type the first letter of the name of an imperial era, then the two digit year **
 - h = Heisi
 - r = Reiwa
 
-#### Things to know:
-- Trying to convert a year past the end of an imperial era will produce an error message explaining the last year of the era you tried to convert.
+#### Things to Know about Converting to Western Years:
+- Trying to convert a year past the end of an imperial era will produce an error message.
 - For any year past the current Reiwa nengō, i.e, r53, the year will still be converted into a Western year.
 
 # Known Issues
