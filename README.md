@@ -62,7 +62,7 @@ This macro lets you convert years as you are typing. The macro accounts for thre
 - typing in text fields
 - typing in spreadsheets
 
-####Typing in Spreadsheets
+#### Typing in Spreadsheets
 Spreadsheets are the most complex software environement for the macro to handle. As a result, indivdiual spreadhsheet programs and web apps have to be accounted for. The macro will work in:
 - Excel
 - Excel's web app in Office365 
