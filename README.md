@@ -61,12 +61,14 @@ Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro wi
 - Trying to convert a year before 1868 will produce an error.
 - The macro will NOT convert Western years that fall on a year when the imperial era changes.
   - e.g.: 1868, 1912, 1926, 1989, 2019
-  - This is because the the last and first year of two succeeding imperial eras can happen in the same Western year.
+  - This is because the last and first year of two succeeding imperial eras can happen in the same Western year.
   - An alert message will appear explaining the exact dates one era ends and the other begins.
-- 2020 thorugh 2030 will be converted to Reiwa era nengō. No conversion or error message will appear for numbers higher than 2030.
+- 2020 thorugh 2030 will be converted to Reiwa era nengō. No conversion or error message will appear for years higher than 2030.
 
 ### Nengō to Western Years
+Type the first letter of the name of an imperial era, then the two digit year ***(no space)***, and then press ctrl+shit+y. For example, "s20" will be converted to "1945", "h12" will be converted to "2000", and so on.
 
+#### Things to know:
 # Known Issues
 
 # Future Changes/Features
