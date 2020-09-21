@@ -117,15 +117,15 @@ Type the first letter of the name of an imperial era, then the two digit year **
   - Would require the use of YYYYMMDD date format to account for nengō changing during a Western year.
 
 # About
-version: 1.0
-released: 2020/09/21 (yyyy/mm/dd)
+- version: 1.0
+- released: 2020/09/21 (yyyy/mm/dd)
 
 ## Created By:
-Adam H. Lisbon
-Japanese & Korean Studies Librarian
-Associate Professor
-University Libraries
-University of Colorado Boulder
+Adam H. Lisbon  
+Japanese & Korean Studies Librarian  
+Associate Professor  
+University Libraries  
+University of Colorado Boulder  
 
 ## License:
 See [LICENSE.md](https://github.com/ahlisbon/diacriticsAndNengo/blob/master/LICENSE.md)
