@@ -4,15 +4,6 @@ A set of simple macros to:
 - quickly switch between the default keyboard and an [Input Method Editor (IME)](https://en.wikipedia.org/wiki/Input_method)
 - convert Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa from 1868/Meiji 1 onward. These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are contatined in a self executing file that launches a tiny stand alone program in the background.
 
-## Features include:
-- Quckly swapping between your default keyboard input and an Input Method Editor (IME)
-  -used the caps lock key instead of the cumbersome alt+shift to switch.
-- Quickly type vowels with macrons（ex: ō) in [Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization) romanization.
-  - Including the ¥ symbol.
-- Quckly type a breve (ex: ŏ) for romanizing Korean in [McCune–Reischauer](https://en.wikipedia.org/wiki/McCune%E2%80%93Reischauer) romanization.
-  - Including the ₩ symbol.
-- Quick Western ⇄ Nengō conversion from 1868 onward.
-
 # Getting Started
 
 ## Prerequisites
@@ -26,9 +17,12 @@ A set of simple macros to:
 4. Read the README.
 
 # Switching between your default keyboard and the IME
-To type in Japanese with a typical English keyboard, using an IME for Japanese is required. The Windows default shortcuts are cumbersome and awkward:
+To type in Japanese with a typical English keyboard, using an IME for Japanese* is required. The Windows default shortcuts are cumbersome and awkward:
 - *alt+shift* to swtich back and forth between your default keyboard and an IME, then
-- *alt+tilde* to switch back and forth between
+  - or *windows+space* to cycle between the IME(s) and the default keyboard
+- *alt+tilde* to switch back and forth between using your IME to type in English or type in Japanese, or
+
+Instead, you can initally swtich your Japaense IME to type in Japaense and use the *Caps Lock* to swap back and forth. To use the *caps lock* as intended, use *ctrl+caps lock* instead.
 
 # Typing Vowels with Diacritics
 
