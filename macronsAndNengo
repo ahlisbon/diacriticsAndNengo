@@ -253,4 +253,4 @@ exit
 		send {enter}
 	if spreadsheet= Google Sheets
 		send {enter 2}
-exit\\
+exit
