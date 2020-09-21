@@ -56,6 +56,10 @@ Trying to type long-vowels in Japanese or certain vowels in Korean requires diac
 ## Using the Caps Lock key to switch the IME
 On Windows, swtiching the IME for Japanese is done with alt+shift to switch between Japanese and English input. When the Japanese IME is selected, you can still choose between typing in English like normal, or typing in Japanese, done by typing alt and the tilde (`) key.
 
+Set your Japanese IME to typing in Japanese, pressing the Caps Lock key will now quicklu switch between English and Japanese.
+
+★The windows IME "remembers" your input settings per each program. For example, if you are typing in MS Word in Japanese, you may suddenly be typing in English if you switch to your web browser because earlier you hadn't been typing in Japanese in the browser.
+
 ### Detailed Explanation
 
 ## Converting Western Years ⇄ Nengō
