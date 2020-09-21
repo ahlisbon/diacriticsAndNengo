@@ -4,7 +4,7 @@ A set of simple macros to:
 - quickly switch between the default keyboard and an [Input Method Editor (IME)](https://en.wikipedia.org/wiki/Input_method)
 - convert Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa from 1868/Meiji 1 onward.
 
-These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are contatined in a self executing file that launches a tiny stand alone program in the background.
+These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are part of self executing file that launches a tiny stand alone program in the background.
 
 # Getting Started
 
