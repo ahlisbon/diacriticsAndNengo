@@ -18,7 +18,7 @@ A set of simple macros to:
 
 # Switching between your default keyboard and the IME
 To type in Japanese with a typical English keyboard, using an IME for Japanese* is required. The Windows default shortcuts are cumbersome and awkward:
-- *alt+shift* to swtich back and forth between your default keyboard and an IME, OR
+- *alt+shift* to swtich back and forth between your default keyboard and an IME
 - or *windows+space* to cycle between the IME(s) and the default keyboard
 Then
 - *alt+tilde* to switch back and forth between using your IME to type in English or type in Japanese, or
