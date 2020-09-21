@@ -57,12 +57,13 @@ Trying to type long-vowels in Japanese or certain vowels in Korean requires diac
 ### Western Years to Nengō
 Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro will highlight the text and paste the nengō over it. For example 1936 will be pasted over as: "Shōwa 11"
 
-Things to know:
+#### Things to know:
 - Trying to convert a year before 1868 will produce an error.
 - The macro will NOT convert Western years that fall on a year when the imperial era changes.
   - e.g.: 1868, 1912, 1926, 1989, 2019
-  - This is because the the last and first year of two imperial eras can happen in the same Western year.
+  - This is because the the last and first year of two succeeding imperial eras can happen in the same Western year.
   - An alert message will appear explaining the exact dates one era ends and the other begins.
+- 2020 thorugh 2030 will be converted to Reiwa era nengō. No conversion or error message will appear for numbers higher than 2030.
 
 ### Nengō to Western Years
 
