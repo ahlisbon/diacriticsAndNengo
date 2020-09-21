@@ -14,8 +14,8 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
 - for PCs only.
 
 ## Installing
-1. Download the "marconsAndNengo.ahk" file from the GitHub project home page.
-2. Double click the "macronAndNengo.ahk" file after the downloaded finishes.
+1. Download the "marconsAndNengo.exe" file from the GitHub project home page.
+2. Double click the "macronAndNengo.exe" file after the downloaded finishes.
    - You will see a green square with a white "H" in the Windows taskbar on the lower-right. If not, click the up arrow to see if it's in the expanded grid of background programs running on your PC. You should see it there.
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the right alt+y, your computer will type ¥.
 4. Read the README.
@@ -93,7 +93,7 @@ Type the first letter of the name of an imperial era, then the two digit year **
 - For any year past the current Reiwa nengō, i.e, r53, the year will still be converted into a Western year.
 
 # Known Issues
-- On rare occaisions, the macro will leave either the "ctrl" "shift" or "alt" pressed down. I.e., presseing the "p" key will be interpreted by your computer as "ctrl+p" and launch the print dialogue window. To fix this, seperately press "ctrl" "shift" and "alt". This will stop the behavior. It is unclear why this happens sometimes and is continuing to be explored.
+- On rare occaisions, the macro will leave either the "ctrl" "shift" or "alt" key pressed down. I.e., presseing the "p" key will be interpreted by your computer as "ctrl+p" and launch the print dialogue window. To fix this, seperately press "ctrl" "shift" and "alt". This will stop the behavior.
 
 # Future Changes/Features/Ideas (in no particular order)
 - Improve compatibility with spreadsheet software/web apps.
