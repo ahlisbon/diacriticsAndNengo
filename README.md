@@ -2,7 +2,9 @@
 A set of simple macros to:
 - quickly type romanized Japanese vowels with macrons (ex: ō) and Korean vowels with breves (ex: ŭ).
 - quickly switch between the default keyboard and an [Input Method Editor (IME)](https://en.wikipedia.org/wiki/Input_method)
-- convert Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa from 1868/Meiji 1 onward. These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are contatined in a self executing file that launches a tiny stand alone program in the background.
+- convert Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa from 1868/Meiji 1 onward.
+
+These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and are contatined in a self executing file that launches a tiny stand alone program in the background.
 
 # Getting Started
 
@@ -11,7 +13,7 @@ A set of simple macros to:
 
 ## Installing
 1. Download the "marconsAndNengo.exe" file from the GitHub project home page.
-2. Double click the "macronAndNengo.exe" file after the downloaded finishes.
+2. Double click the "macronAndNengo.exe" file after the download finishes.
    - You will see a green square with a white "H" in the Windows taskbar on the lower-right. If not, click the up arrow to see if it's in the expanded grid of background programs running on your PC. You should see it there.
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the right alt+y, your computer will type ¥.
 4. Read the README.
@@ -21,40 +23,40 @@ A set of simple macros to:
 - To toggle typing in all capital letters, use *ctrl+caps lock* instead.
 - Set the Japanese IME to "hiragana" with *alt+tilde*. Then use *caps lock* to quickly swap between typing in English or Japanese.
 
-Remember that Windows will default to English when you open a new program. If you are typing in Japanese in Notepad, and then open a browser, Windows will default back to the English keyboard.
+Remember that Windows will default to English when you open a new program. For example, if you are typing in Japanese in Notepad, and then open a browser, Windows will default back to the English keyboard.
 
 (documentation on Korean IME will come in a future update)
 
 # Typing Vowels with Diacritics
 
-type long-vowels in Japanese or certain vowels in Korean requires diacritics. Use these hot key combinations to quickly type the following:
+Romanized Japanese and Korean require diacritics. Use these hot key combinations to quickly type the following:
 
 ## Long-Vowels in Romanized Japanese
-- right alt+a = ā
-- right alt+i = ī
-- right alt+u = ū
-- right alt+e = ē
-- right alt+o = ō
+- *right alt+a* = ā
+- *right alt+i* = ī
+- *right alt+u* = ū
+- *right alt+e* = ē
+- *right alt+o* = ō
 
-- right alt+right shift+a = Ā
-- right alt+right shift+i = Ī
-- right alt+right shift+u = Ū
-- right alt+right shift+e = Ē
-- right alt+right shift+o = Ō
+- *right alt+right shift+a* = Ā
+- *right alt+right shift+i* = Ī
+- *right alt+right shift+u* = Ū
+- *right alt+right shift+e* = Ē
+- *right alt+right shift+o* = Ō
 
 ## Korean Vowels with Diacritics
-- right ctrl+o = ŏ
-- right ctrl+u = ŭ
+- *right ctrl+o* = ŏ
+- *right ctrl+u* = ŭ
 
-- right ctrl+right shift+o = Ŏ
-- right ctrl+right shift+u = Ŭ
+- *right ctrl+right shift+o* = Ŏ
+- *right ctrl+right shift+u* = Ŭ
 
 # Currency Symbols
-- right alt+y = ¥
-- right ctrl+w = ₩
+- *right alt+y* = ¥
+- *right ctrl+w* = ₩
 
 # Converting Western Years ⇄ Nengō
-ctrl+shift+y is the hotkey combination for converting years.
+*ctrl+shift+y* is the hotkey combination for converting years.
 
 This macro lets you convert years as you are typing. The macro accounts for three scenarios:
 - typing in word processors
@@ -62,7 +64,7 @@ This macro lets you convert years as you are typing. The macro accounts for thre
 - typing in spreadsheets
 
 ## Converting Years in Word Processors or Text Fields
-Type out any 4 digit western year or nengō with the appropriate era prefix, then enter the hotkey combination (ctrl+shift+y).
+Type out any 4 digit western year or nengō with the appropriate era prefix, then enter the hotkey *ctrl+shift+y*.
 
 ## Converting Years in Spreadsheets
 Spreadsheets are the most complex software environement for the macro to handle. The macro is compatible with:
@@ -75,25 +77,25 @@ If you use other spreadsheet software, the macro may not work correctly. Please 
 ★ When converting a year in a spreadsheet cell, you cannot be editing the cell. The macro can only convert cells with a date already entered in them.
 
 ### Western Years to Nengō
-Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro will highlight the text and paste the nengō over it. For example 1936 will be pasted over as: "Shōwa 11".
+Type any 4 digit year from 1868 onward and then press *ctrl+shift+y*. The macro will highlight the text and paste the nengō over it. For example 1936 will be pasted over as: "Shōwa 11". In spreadsheets the year needs to already be in the cell.
 
-#### Things to Know about converting to nengō:
-- Trying to convert a year before 1868 will produce an error.
+#### Things to Know about converting Western Years:
+- Years will not be converted before 1868 (Meiji 1).
 - The macro will NOT convert Western years that fall on a year when the imperial era changes.
-  - e.g.: 1868, 1912, 1926, 1989, 2019
-  - This is because the last and first year of two succeeding imperial eras can happen in the same Western year.
+  - e.g. 1868, 1912, 1926, 1989, 2019
+  - Because the last and first year of two succeeding imperial eras can happen in the same Western year.
   - An alert message will appear explaining the exact dates one era ends and the other begins.
 - 2020 thorugh 2030 will be converted to Reiwa era nengō. No conversion or error message will appear for years higher than 2030.
 
 ### Nengō to Western Years
-Type the first letter of the name of an imperial era, then the two digit year ***(no space)***, and then press ctrl+shit+y. For example, "s20" will be converted to "1945", "h12" will be converted to "2000", and so on.
+Type the first letter of the name of an imperial era, then the two digit year **with no space between the letter and the year**, then press *ctrl+shit+y*. For example, "s20" will be converted to "1945", "h12" will be converted to "2000", and so on. "s 20" adn "h 12" would not be recognized as years to convert.
 - m = Meiji
 - t = Taishō
 - s = Shōwa
 - h = Heisi
 - r = Reiwa
 
-#### Things to Know about Converting to Western Years:
+#### Things to Know about Converting Nengō:
 - Trying to convert a year past the end of an imperial era will produce an error message.
 - For any year past the current Reiwa nengō. For example, "r53" will be converted into 2071.
 
