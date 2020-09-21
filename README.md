@@ -65,7 +65,7 @@ Spreadsheets are the most complex software environement for the macro to handle.
 - Excel's web app in Office365 
 - Google Sheets
 
-If you use other spreadsheet software, the macro may not work correctly. Please email me if you use something not listed above and would like me to try and make the macro compatible with it.
+If you use other spreadsheet software, the macro may not work correctly. Please [email me](mailto:adam.lisbon@colorado.edu) if you use something not listed above and would like me to try and make the macro compatible with it.
 
 ★ When converting a year in a spreadsheet cell, you cannot be editing the cell. The macro can only convert cells with a date already entered in them.
 
