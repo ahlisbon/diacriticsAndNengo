@@ -15,7 +15,7 @@ A set of simple macros to quickly type romanized Japanese vowels with macrons (e
 
 ## Installing
 1. Download the "marconsAndNengo.ahk" file from the GitHub project home page.
-2. Double click the "macronAndNengo.ahk" file after you've downloaded the file.
+2. Double click the "macronAndNengo.ahk" file after the downloaded finishes.
    - You will see a green square with a white "H" in the Windows taskbar on the lower-right. If not, click the up arrow to see if it's in the expanded grid of background programs running on your PC. You should see it there.
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the right alt+y, your computer will type ¥.
 4. Read the README.
