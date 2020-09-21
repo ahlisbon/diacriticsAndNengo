@@ -17,9 +17,11 @@ A set of simple macros to:
 4. Read the README.
 
 # Switching between your default keyboard and the IME
-*caps lock* replaces the *alt+shift* to switch between the most recently used IME and the default keyboard. To toggle typing in all capital letters, use *ctrl+caps lock* instead.
+-*caps lock* replaces the *alt+shift* to switch between the most recently used IME and the default keyboard.
+-To toggle typing in all capital letters, use *ctrl+caps lock* instead.
+-Set the Japanese IME to "hiragana" with *alt+tilde*. Then use *caps lock* to quickly swap between typing in English or Japanese.
 
-Set the Japanese IME to "hiragana" with *alt+tilde*. Then use *caps lock* to quickly swap between typing in English or Japanese. Remember that Windows will default to English when you open a new program. If you are typing in Japanese in Notepad, and then open a browser, Windows will default back to the English keyboard.
+Remember that Windows will default to English when you open a new program. If you are typing in Japanese in Notepad, and then open a browser, Windows will default back to the English keyboard.
 
 (documentation on Korean IME will come in a future update)
 
