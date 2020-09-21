@@ -67,8 +67,28 @@ Type any 4 digit year from 1868 onward and then press ctrl+shift+y. The macro wi
 
 ### Nengō to Western Years
 Type the first letter of the name of an imperial era, then the two digit year ***(no space)***, and then press ctrl+shit+y. For example, "s20" will be converted to "1945", "h12" will be converted to "2000", and so on.
+- m = Meiji
+- t = Taishō
+- s = Shōwa
+- h = Heisi
+- r = Reiwa
 
 #### Things to know:
+- Trying to convert a year past the end of an imperial era will produce an error message explaining the last year of the era you tried to convert.
+- For any year past the current Reiwa nengō, i.e, r53, the year will still be converted into a Western year.
+
 # Known Issues
 
-# Future Changes/Features
+## Issues in Spreadsheet software/web apps.
+
+# Future Changes/Features/Ideas (in no particular order)
+- Improve compatibility with spreadsheet software/web apps.
+- Impliment a GUI.
+- Option to paste years in [] to assist library catalogers.
+- The ability to cyle between o, ō, and ŏ; u, ū, and ŭ; instead of using seperate hot keys.
+- Eliminate specific hot keys for each letter. Instead, type any one letter that can potentially have a diacritic and have one hotkey that looks at the last character typed and adds the appropriate diacritic. 
+  - Would pair extremely well with the above idea for cycling letters with one diacritic.
+  - Would also apply to currency symbols.
+- Convert Western Years ⇄ nengō **before** before 1868
+  - Labor intensive because of so many imperial eras.
+  - Would require the use of a YYYYMMDD format to account for nengō changing during a Western year.
