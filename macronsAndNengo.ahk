@@ -1,3 +1,8 @@
+﻿;About:
+;version: 1.1
+;released: 2020/09/22 (yyyy/mm/dd)
+
+;------------------------------------------------------------
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 #Warn  ; Enable warnings to assist with detecting common errors.
 ;SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
@@ -112,7 +117,7 @@ exit
 ;years where the Western Year is when the Japanese Imperial era changes.
 	if clipboard < 1868
 		{
-		msgBox, This macro only converts dates before 1868.
+		msgBox, This macro only converts dates after 1868.
 		exit
 		}
 	if clipboard= 1868
