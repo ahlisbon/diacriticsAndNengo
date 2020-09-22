@@ -97,7 +97,7 @@ Type the first letter of the name of an imperial era, then the two digit year **
 
 #### Things to Know about Converting Nengō:
 - Trying to convert a year past the end of an imperial era will produce an error message.
-- For any year past the current Reiwa nengō. For example, "r53" will be converted into 2071.
+- These is no limit on the number of years for the Reiwa era. For example, "r700" will be converted into 2718.
 
 # Known Issues
 - On rare occaisions, the macro will leave either the "ctrl" "shift" or "alt" key pressed down. I.e., presseing the "p" key will be interpreted by your computer as "ctrl+p" and launch the print dialogue window. To fix this, seperately press "ctrl" "shift" and "alt". This will stop the behavior.
