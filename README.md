@@ -15,7 +15,7 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 1. [Download  marconsAndNengo.exe](https://github.com/ahlisbon/diacriticsAndNengo/raw/master/macronsAndNengo.exe)
 2. Double click the "macronAndNengo.exe" file after the download finishes.
    - You will see a green square with a white "H" in the Windows taskbar on the lower-right. If not, click the up arrow to see if it's in the expanded grid of background programs running on your PC. You should see it there.
-3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the right alt+y, your computer will type ¥.
+3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the *right alt+y*, your computer will type ¥.
 4. Read the README.
 
 # Switching between your default keyboard and the IME
@@ -101,6 +101,7 @@ Type the first letter of the name of an imperial era, then the two digit year **
 
 # Known Issues
 - On rare occaisions, the macro will leave either the "ctrl" "shift" or "alt" key pressed down. I.e., presseing the "p" key will be interpreted by your computer as "ctrl+p" and launch the print dialogue window. To fix this, seperately press "ctrl" "shift" and "alt". This will stop the behavior.
+- If you type some gibberish, and the gibberish has one of the letters used to prefix imperial eras (m, t, s, h, r), the error message for exceeding the maximum number of years in an imperial era will display.
 
 # Future Changes/Features/Ideas (in no particular order)
 - Improve compatibility with spreadsheet software/web apps.
