@@ -106,7 +106,7 @@ Type the first letter of the name of an imperial era, then the two digit year **
 # Future Changes/Features/Ideas (in no particular order)
 - Improve compatibility with spreadsheet software/web apps.
 - Impliment a GUI.
-- Option to paste years in [] to assist library catalogers.
+- Option to paste years in [ ] to assist library catalogers.
 - Option to paste  years in Japanese, i.e., "昭和30".
 - Ability to detect and copy phrases like "taisho 4" "taishō 4" "大正4" and "大正四
 - The ability to cyle between o, ō, and ŏ; u, ū, and ŭ; instead of using seperate hot keys.
