@@ -61,7 +61,7 @@ Romanized Japanese and Korean require diacritics. Use these hot key combinations
 This macro lets you convert years as you are typing. The macro accounts for three scenarios:
 - typing in word processors
 - typing in text fields
-- typing in spreadsheets
+- spreadsheets with a year already in the cell
 
 ## Converting Years in Word Processors or Text Fields
 Type out any 4 digit western year or nengō with the appropriate era prefix, then enter the hotkey *ctrl+shift+y*.
