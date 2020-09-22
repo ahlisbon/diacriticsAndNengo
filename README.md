@@ -11,7 +11,7 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 ## Prerequisites
 - for PCs only.
 
-## Downlaoding and Using
+## Downloading and Using
 1. [Download  marconsAndNengo.exe](https://github.com/ahlisbon/diacriticsAndNengo/raw/master/macronsAndNengo.exe)
 2. Double click the "macronAndNengo.exe" file after the download finishes.
    - You will see a green square with a white "H" in the Windows taskbar on the lower-right. If not, click the up arrow to see if it's in the expanded grid of background programs running on your PC. You should see it there.
