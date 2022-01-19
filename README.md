@@ -1,4 +1,4 @@
-# Macrons & Nengō
+# Diacritics & Nengō
 A set of simple macros to:
 - quickly type romanized Japanese vowels with macrons (ex: ō) and Korean vowels with breves (ex: ŭ).
 - convert Western years to [Japanese imperial era years (nengō/年号)](https://en.wikipedia.org/wiki/Japanese_era_name#Neng%C5%8D_in_modern_Japan) and vice versa from 1868/Meiji 1 onward.
