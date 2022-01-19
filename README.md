@@ -17,15 +17,6 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the *right alt+y*, your computer will type ¥.
 4. Read the README below.
 
-# Switching between your default keyboard and the IME
-- *caps lock* replaces the *alt+shift* to switch between the most recently used IME and the default keyboard.
-- To toggle typing in all capital letters, use *ctrl+caps lock* instead.
-- Set the Japanese IME to "hiragana" with *alt+tilde*. Then use *caps lock* to quickly swap between typing in English or Japanese.
-
-Remember that Windows will default to English when you open a new program. For example, if you are typing in Japanese in Notepad, and then open a browser, Windows will default back to the English keyboard.
-
-(documentation on Korean IME will come in a future update)
-
 # Typing Vowels with Diacritics
 
 Romanized Japanese and Korean require diacritics. Use these hot key combinations to quickly type the following:
