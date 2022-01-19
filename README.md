@@ -15,7 +15,7 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 2. Double click the "Diacritics and Nengo.exe" file after the download finishes.
    - You will see a green square with a white "H" in the Windows taskbar on the lower-right. If not, click the up arrow to see if it's in the expanded grid of background programs running on your PC. You should see it there.
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the *right alt+y*, your computer will type ¥.
-4. Read the README.
+4. Read the README below.
 
 # Switching between your default keyboard and the IME
 - *caps lock* replaces the *alt+shift* to switch between the most recently used IME and the default keyboard.
