@@ -57,7 +57,7 @@ This macro lets you convert years as you are typing. The macro accounts for thre
 Type out any 4 digit western year or nengō with the appropriate era prefix, then enter the hotkey *ctrl+shift+y*.
 
 ## Converting Years in Spreadsheets
-Spreadsheets are the most complex software environement for the macro to handle. The macro is compatible with:
+Spreadsheets are the most complex software environment for the macro to handle. The macro is compatible with:
 - Excel
 - Excel's web app in Office365 
 - Google Sheets
