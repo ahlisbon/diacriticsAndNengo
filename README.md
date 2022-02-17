@@ -17,6 +17,8 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the *right alt+y*, your computer will type ¥.
 4. Read the README below.
 
+\*If you would like to see the code and edit yourself, you can download the AHK file.
+
 # Typing Vowels with Diacritics
 
 Romanized Japanese and Korean require diacritics. Use these hot key combinations to quickly type the following:
