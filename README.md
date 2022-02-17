@@ -18,9 +18,16 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the *right alt+y*, your computer will type ¥.
 4. Read the README below.
 
-##
-Editing, updating, playing with the code  yourself.
-\*If you would like to see the code and edit yourself, you can [download the AHK file](https://github.com/ahlisbon/diacriticsAndNengo/blob/master/Diacritics%20and%20Nengo.ahk). You will need to open 
+## Editing, Updating, Playing with the code
+If you would like to see the code and edit yourself, make sure you have installed [AutoHotKey first](https://www.autohotkey.com/).
+- After installing, create a new AutoHotKey file. You can usually do this by right clicking on your desktop or in a folder.
+  - Select "New" and then " AutoHotKey Script"
+  - Name the file
+  - Right click the file you just created, select "Edit Script"
+- This will most likely cause Note Pad to open, you can now paste the AHK code in this window and save the file as an AHK file.
+- To get the code, go to 
+
+you can [download the AHK file](https://github.com/ahlisbon/diacriticsAndNengo/blob/master/Diacritics%20and%20Nengo.ahk). 
 
 # Typing Vowels with Diacritics
 
