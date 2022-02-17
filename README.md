@@ -25,7 +25,14 @@ If you would like to see the code and edit yourself, make sure you have installe
   - Name the file
   - Right click the file you just created, select "Edit Script"
 - This will most likely cause Note Pad to open, you can now paste the AHK code in this window and save the file as an AHK file.
-- To get the code, go to 
+- Go to the [raw code](https://raw.githubusercontent.com/ahlisbon/diacriticsAndNengo/master/Diacritics%20and%20Nengo.ahk) hosted on Github.
+- Select all of the textg (ctrl+a) and copy it to Notepad.
+- Save the file.
+- You can now edit the script.
+
+-For script editing. I highly recommend using [Notepad++](https://notepad-plus-plus.org/downloads/)
+ - After installing Notepad++ you can drag and drop a file into its window to edit it.
+ - Or you can right click an AHK file and select "Edit with Notepad++"
 
 you can [download the AHK file](https://github.com/ahlisbon/diacriticsAndNengo/blob/master/Diacritics%20and%20Nengo.ahk). 
 
