@@ -9,7 +9,7 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 
 ## Prerequisites
 - for PCs only.
-- This guide assumes limited knowledge of coding, syntax, and using GitHub itself.
+- This guide assumes limited experience with coding and using GitHub itself.
 
 ## Downloading and Using
 1. [Download  Diacritics and Nengo.exe](https://github.com/ahlisbon/diacriticsAndNengo/raw/master/Diacritics%20and%20Nengo.exe)
