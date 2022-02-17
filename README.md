@@ -18,7 +18,7 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the *right alt+y*, your computer will type ¥.
 4. Read the README below.
 
-## Editing, Updating, Playing with the code
+## Editing, Updating, Playing with the Code (Optional)
 If you would like to see the code and edit yourself, make sure you have installed [AutoHotKey first](https://www.autohotkey.com/).
 - After installing, create a new AutoHotKey file. You can usually do this by right clicking on your desktop or in a folder.
   - Select "New" and then " AutoHotKey Script"
