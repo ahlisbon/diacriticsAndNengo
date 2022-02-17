@@ -19,7 +19,7 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 4. Read the README below.
 
 ## Editing, Updating, Playing with the Code (Optional)
-###If you would like to see the code and edit yourself, make sure you have installed [AutoHotKey first](https://www.autohotkey.com/).
+### If you would like to see the code and edit yourself, make sure you have installed [AutoHotKey first](https://www.autohotkey.com/).
 - After installing, create a new AutoHotKey file. You can usually do this by right clicking on your desktop or in a folder.
   - Select "New" and then " AutoHotKey Script"
   - Name the file
@@ -30,7 +30,7 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 - Save the file.
 - You can now edit the script.
 
-###For script editing. I highly recommend using [Notepad++](https://notepad-plus-plus.org/downloads/)
+### For script editing. I highly recommend using [Notepad++](https://notepad-plus-plus.org/downloads/)
  - After installing Notepad++ you can drag and drop a file into its window to edit it.
  - Or you can right click an AHK file and select "Edit with Notepad++"
 
