@@ -16,7 +16,7 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
 2. Double click the "Diacritics and Nengo.exe" file after the download finishes.
    - You will see a green square with a white "H" in the Windows taskbar on the lower-right. If not, click the up arrow to see if it's in the expanded grid of background programs running on your PC. You should see it there.
 3. These scripts are activated by tapping a "hot key" (or key combination) on your keyboard. For example, if you type the *right alt+y*, your computer will type ¥.
-4. Read the README below.
+4. Read the rest of the README.
 
 ## Editing, Updating, Playing with the Code (Optional)
 ### If you would like to see the code and edit yourself, make sure you have installed [AutoHotKey first](https://www.autohotkey.com/).
