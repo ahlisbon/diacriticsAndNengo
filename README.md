@@ -34,8 +34,6 @@ These macros were created in [AutoHotKey (AHK)](https://www.autohotkey.com/) and
  - After installing Notepad++ you can drag and drop a file into its window to edit it.
  - Or you can right click an AHK file and select "Edit with Notepad++"
 
-you can [download the AHK file](https://github.com/ahlisbon/diacriticsAndNengo/blob/master/Diacritics%20and%20Nengo.ahk). 
-
 # Typing Vowels with Diacritics
 
 Romanized Japanese and Korean require diacritics. Use these hot key combinations to quickly type the following:
