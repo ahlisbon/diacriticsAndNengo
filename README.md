@@ -125,8 +125,8 @@ Type the first letter of the name of an imperial era, then the two digit year **
   - Would require the use of YYYYMMDD date format to account for nengō changing during a Western year.
 
 # About
-- version: 1.2
-- released: 2021/01/19 (yyyy/mm/dd)
+- version: 1.3
+- released: 2022/02/17 (yyyy/mm/dd)
 
 ## Created By:
 Adam H. Lisbon  
