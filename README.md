@@ -95,7 +95,7 @@ Type any 4 digit year from 1868 onward and then press *ctrl+shift+y*. The macro 
 - 2020 thorugh 2030 will be converted to Reiwa era nengō. No conversion or error message will appear for years higher than 2030.
 
 ### Nengō to Western Years
-Type the first letter of the name of an imperial era, then the two digit year **with no space between the letter and the year**, then press *ctrl+shit+y*. For example, "s20" will be converted to "1945", "h12" will be converted to "2000", and so on. "s 20" adn "h 12" would not be recognized as years to convert.
+Type the first letter of the name of an imperial era, then the two digit year **with no space between the letter and the year**, then press *ctrl+shift+y*. For example, "s20" will be converted to "1945", "h12" will be converted to "2000", and so on. "s 20" adn "h 12" would not be recognized as years to convert.
 - m = Meiji
 - t = Taishō
 - s = Shōwa
